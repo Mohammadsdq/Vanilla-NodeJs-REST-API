@@ -54,13 +54,13 @@ project/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git https://github.com/Mohammadsdq/Vanilla-NodeJs-REST-API
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd YOUR_PROJECT_NAME
+cd Vanilla-NodeJs-REST-API
 ```
 
 3. Install dependencies:
